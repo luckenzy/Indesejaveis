@@ -1,3 +1,11 @@
+tp.hd.mi.com
+api.ad.xiaomi.com
+data.mistat.india.xiaomi.com
+data.mistat.xiaomi.com
+app-analytics-us.huami.com
+app.chat.global.xiaomi.net
+resolver.msg.global.xiaomi.net 
+resolver.msg.xiaomi.net
 -084-gls-223-www-9-k-0brasil.net.daraz.com
 -access-logs-1.net.daraz.com
 -access-logs-3apropmdeizy9vjf.net.daraz.com
